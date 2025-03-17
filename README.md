@@ -37,5 +37,6 @@
   <p align="left">
   <a href="https://linkedin.com/in/lakshmana-kumar-g1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LK" height="40" width="50" /></a>
   <a href="https://instagram.com/l_a_k_s_h_m_a_n_l_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lk" height="40" width="50" /></a>
+   <a href="https://twitter.com/@12Lakshmana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lk" height="40" width="50" /></a>
   </p>
 
