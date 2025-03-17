@@ -1,7 +1,7 @@
 ⭐About Me:
 
  Hi there 👋 I'm Lakshmana kumar
- <img src="https://pin.it/1PRmN14Y2" width="100">
+ <img src="[https://pin.it/1PRmN14Y]" width="100">
 - 🎓 B.Tech in Information Technology
 - 📫 Email: lakshmanlk1210@gmail.com
 - 🔭 I’m currently working as an Assistant Mentor.
