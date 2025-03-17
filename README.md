@@ -30,7 +30,7 @@
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lakshmana-Kumar&theme=dark)
   
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Lakshmana-Kumar&theme=darkhub)
+ 🏆![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Lakshmana-Kumar&theme=darkhub)
 
 ---
   <h3 align="left">Contact Me:</h3>
