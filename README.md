@@ -19,6 +19,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
   ---
@@ -29,10 +30,14 @@
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmana-Kumar&layout=compact&theme=dark)
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lakshmana-Kumar&theme=dark)
-  
- 🏆![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Lakshmana-Kumar&theme=darkhub)
 
----
+   ---
+  
+ <h3 align="left">🏆GitHub Trophies</h3>
+	
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Lakshmana-Kumar&theme=darkhub)
+
+   ---
   <h3 align="left">Contact Me:</h3>
   <p align="left">
   <a href="https://linkedin.com/in/lakshmana-kumar-g1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LK" height="40" width="50" /></a>
