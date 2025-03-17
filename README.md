@@ -10,5 +10,5 @@
 - ⚡ Fun fact: I'm good at mental calculations.
   
   ---
-  🌐<h3>Social:</h3>
+  <h3>🌐 Social:</h3>
  - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logoColor=white)](https://www.instagram.com/l_a_k_s_h_m_a_n_l_k?igsh=MWsyNmRleWdhZ2FxbQ==)
