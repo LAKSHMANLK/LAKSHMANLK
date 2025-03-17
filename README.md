@@ -1,8 +1,7 @@
 ⭐About Me:
 
  Hi there 👋 I'm Lakshmana kumar
- Hello! I'm a B.Tech graduate in Information Technology.
- 🚀 About ME
+ <img src="https://i.pining.com/originals/47/f0/34/47f0342cec72b800463bf0O3eac1257e.gif">
 - 🎓 B.Tech in Information Technology
 - 📫 Email: lakshmanlk1210@gmail.com
 - 🔭 I’m currently working as an Assistant Mentor.
